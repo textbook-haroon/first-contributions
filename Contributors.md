@@ -13,6 +13,7 @@
 -[Namya Khan] (https://github.com/namyakhan)
 - [Borhan Uddin](https://github.com/borhan-dev/)
 - [Saad Farhan](https://github.com/SaadFarhanIdress)
+-[Haroon Isiyaku](https://github.com/textbook-haroon)
 - [Angela Yuan] (https://github.com/AngelaSYuan/)
 - [Guerra-Renzo](https://github.com/Renzo-Guerra)
 - [Nicholas-Barker](https://github.com/InhumanNick)
